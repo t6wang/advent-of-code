@@ -3,5 +3,7 @@
 
 ## Day 1
 see input file [here](day1/input.txt)
+
 [part 1](day1/input.txt)
+
 [part 2](day1/input.txt)
